@@ -1,0 +1,31 @@
+# Build results
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.suo
+*.user
+*.cache
+*.log
+
+# VS folders
+/.vs/
+/x64/
+/Debug/
+/Release/
+
+# Backup files
+*.bak
+*.tmp
+*.old
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# Other
+*.layout
+*.depend
+*.sdf
+*.opensdf
+*.VC.db
